@@ -1,7 +1,10 @@
 {
   "name": "zlot2016",
   "dependencies": {
+    "active-model-adapter": "~2.0.3",
     "ember": "~2.8.0",
-    "ember-cli-shims": "0.1.1"
+    "ember-cli-shims": "0.1.1",
+    "loader.js": "ember-cli/loader.js#3.4.0",
+    "pace": "~1.0.2"
   }
 }
